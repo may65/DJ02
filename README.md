@@ -1,4 +1,4 @@
-# VD02
+# DJ02
 ## Установка: git clone https://github.com/may65/DJ02.git
 ## Установка модулей: pip install -r requirements.txt
 ## Запуск: cd mysite
